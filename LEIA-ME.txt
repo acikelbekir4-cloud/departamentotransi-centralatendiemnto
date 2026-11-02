@@ -1,0 +1,9 @@
+SITE STUDIO S
+
+1. Extraia todos os arquivos do ZIP.
+2. Mantenha index.html, styles.css, páginas HTML e pasta assets juntos.
+3. Abra index.html no navegador para visualizar.
+4. Para publicar, envie todos os arquivos e a pasta assets para a hospedagem.
+5. Revise a Política de Privacidade para refletir ferramentas reais de cookies, análise e publicidade antes de ativar Google Ads/Analytics.
+
+O site utiliza Bootstrap e Bootstrap Icons via CDN, portanto requer conexão com a internet para carregar esses recursos.
